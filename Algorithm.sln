@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm1", "Algorithm\Algorithm1.csproj", "{313CB71A-F439-432D-AC81-290984D5CA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm2", "Algorithm2\Algorithm2.csproj", "{4097895C-730C-46D4-A314-D254D79DE785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{313CB71A-F439-432D-AC81-290984D5CA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313CB71A-F439-432D-AC81-290984D5CA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313CB71A-F439-432D-AC81-290984D5CA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313CB71A-F439-432D-AC81-290984D5CA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4097895C-730C-46D4-A314-D254D79DE785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4097895C-730C-46D4-A314-D254D79DE785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4097895C-730C-46D4-A314-D254D79DE785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4097895C-730C-46D4-A314-D254D79DE785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7D47165-090C-4A0D-A0F1-65DAAC2589CF}
+	EndGlobalSection
+EndGlobal

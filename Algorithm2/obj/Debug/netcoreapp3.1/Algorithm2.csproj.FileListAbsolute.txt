@@ -1,0 +1,13 @@
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.exe
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.deps.json
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.runtimeconfig.json
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.dll
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.pdb
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.dll
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.pdb
+C:\Users\Fatime\source\repos\Algorithm\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.genruntimeconfig.cache
